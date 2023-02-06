@@ -1,3 +1,4 @@
+# https://blog.csdn.net/liuyafengliu/article/details/121267785
 #COCO 格式的数据集转化为 YOLO 格式的数据集
 #--json_path 输入的json文件路径
 #--save_path 保存的文件夹名字，默认为当前目录下的labels。
