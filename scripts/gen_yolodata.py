@@ -2,11 +2,11 @@
 Author: Rogunt abc847111391@hotmail.com
 Date: 2023-02-06 12:03:55
 LastEditors: Rogunt abc847111391@hotmail.com
-LastEditTime: 2023-02-27 16:02:54
+LastEditTime: 2023-02-27 16:24:26
 FilePath: /yolov7/scripts/gen_yolodata.py
 Description: coco 转 yolo 数据格式
 注意：这个文件不会新生成一个yolo数据文件夹，而是在源文件夹中生成yolo所需labels文件夹和数据集划分txt
-来源 忘了
+来源 https://blog.csdn.net/liuyafengliu/article/details/121267785
 
 需要修改：
 L45  coco 文件夹下images下的数据集划分，所对应的名字
